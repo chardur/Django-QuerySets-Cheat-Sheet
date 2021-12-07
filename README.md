@@ -92,4 +92,4 @@ A helpful list of Django querysets
 
 `otheritem = OtherModule.objects.create(attribute='value')`
 
-`item.relationshipname.add(otheritem)
+`item.relationshipname.add(otheritem)`
